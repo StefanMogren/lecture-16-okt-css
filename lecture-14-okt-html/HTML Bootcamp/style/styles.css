@@ -1,0 +1,11 @@
+section {
+    border: 2px solid black;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+body {background-color: tan;}
+
+img {
+    max-width: 300px;
+}
